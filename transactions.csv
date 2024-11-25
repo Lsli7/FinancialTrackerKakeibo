@@ -1,0 +1,11 @@
+Transaction Type,Amount,Category,Description,Date
+Income,4500.0,Salary,,2024-11-01
+Expense,350.0,Needs,Groceries,2024-11-02
+Expense,450.0,Wants,Clothes,2024-11-04
+Expense,550.0,Needs,Insurance,2024-11-07
+Expense,890.0,Unplanned,Repairs,2024-11-10
+Expense,230.0,Culture,Concert,2024-11-11
+Expense,1500.0,Needs,Rent,2024-11-15
+Income,450.0,Unplanned,,2024-11-15
+Expense,120.0,Needs,Groceries,2024-11-25
+Expense,230.0,Wants,Dinning Out,2024-11-27
