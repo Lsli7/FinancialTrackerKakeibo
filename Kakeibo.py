@@ -136,8 +136,9 @@ class FinancialApp:
 
                 top.destroy()
 
-            except ValueError as e:
-                print("Input Error:", e)  # Using print instead of messagebox.showerror()
+             except ValueError as e:
+                    # Show error message box with the error message
+                    messagebox.showerror("Input Error", str(e))  # Show error dialog with the message
 
         '''Open a new dialog window for entering a transaction'''
         top = tk.Toplevel(self.root)
